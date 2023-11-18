@@ -1,2 +1,2 @@
 # fe-reactjs-edulabworks
-educational website
+educational website demo
